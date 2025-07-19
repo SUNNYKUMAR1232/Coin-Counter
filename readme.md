@@ -107,6 +107,7 @@ Legend:
 - IR1, IR2: Infrared Sensors
 - --: Unused/Reserved
 ```
+<img width="899" height="715" alt="Screenshot 2025-07-19 215239" src="https://github.com/user-attachments/assets/b8c2bf61-999c-44aa-a184-34568e1f82ca" />
 
 ## Software Architecture
 
